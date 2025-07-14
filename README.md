@@ -1,4 +1,4 @@
-<img width="100%" alt="GITHUB Banner" src="[https://github.com/user-attachments/assets/b72e19e7-2425-4cc3-9501-2dc484c49ff3](https://github.com/user-attachments/assets/c4f8a170-fbbe-4edf-94e8-a848c711e469)" />
+<img width="100%" alt="GITHUB Banner" src="https://github.com/user-attachments/assets/06b99ce7-f42b-46bf-b23f-bacf7175b77b" />
 
 <h2 align="center">Hi there 👋 I'm Eren</h2>
 <p align="center">
