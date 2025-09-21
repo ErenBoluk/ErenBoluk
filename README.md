@@ -29,7 +29,7 @@ const eren = {
         frontend: ["Vue.js", "React", "Next.js", "HTML/CSS", "Bootstrap", "Tailwind"],
         mobile: ["Flutter"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
+        tools: ["Git", "Docker", "JetBrains IDEs", "VS Code", "Postman"]
     },
     currentFocus: "Building scalable web applications and mobile solutions",
     funFact: "I debug with console.log and I'm not ashamed of it! 🐛"
